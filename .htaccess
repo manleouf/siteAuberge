@@ -1,0 +1,33 @@
+#--------------------------------------------------
+# R?pertoire : /
+#--------------------------------------------------
+
+# Le serveur doit suivre les liens symboliques :
+Options +FollowSymlinks
+
+# Activation du module de r??criture d'URL :
+RewriteEngine on
+
+#--------------------------------------------------
+# R?gles de r??criture d'URL :
+#--------------------------------------------------
+#redirection sanswww vers www
+RewriteCond %{HTTP_HOST} ^chambredhote-brest.com$
+RewriteRule ^(.*) http://www.chambredhote-brest.com/$1 [QSA,L,R=301]
+#redirection index vers/
+RewriteCond %{THE_REQUEST} ^(GET|POST|HEAD)\ (/.*)?/index.(htm|html|php|asp)
+RewriteRule ^(.*)index.(htm|html|php|asp)$ /$1 [R=301,L]
+
+# Article sans num?ro de page :
+RewriteRule ^\.html$   /index.php [L]
+RewriteRule ^acces\.html$   /acces.php [L]
+RewriteRule ^adresses-brest\.html$   /adresses-brest.php [L]
+RewriteRule ^chambre_chene\.html$   /chambre_chene.php [L]
+RewriteRule ^chambre_palissandre\.html$   /chambre_palissandre.php [L]
+RewriteRule ^contact\.html$   /contact.php [L]
+RewriteRule ^livre_dor\.html$   /livre_dor.php [L]
+RewriteRule ^petit-dejeuner\.html$   /petit-dejeuner.php [L]
+RewriteRule ^tarifs\.html$   /tarifs.php [L]
+RewriteRule ^terrasses-kerangall\.html$   /terrasses-kerangall.php [L]
+RewriteRule ^liens\.html$   /liens.php [L]
+RewriteRule ^mentions\.html$   /mentions.php [L]

@@ -1,0 +1,25 @@
+#--------------------------------------------------
+# R?pertoire : /
+#--------------------------------------------------
+
+# Le serveur doit suivre les liens symboliques :
+Options +FollowSymlinks
+
+# Activation du module de r??criture d'URL :
+RewriteEngine on
+
+#--------------------------------------------------
+# R?gles de r??criture d'URL :
+#--------------------------------------------------
+
+# Article sans num?ro de page :
+RewriteRule ^album-1\.html$   /album-photo-brest/album-1.php [L]
+RewriteRule ^album-2\.html$   /album-photo-brest/album-2.php [L]
+RewriteRule ^album-3\.html$   /album-photo-brest/album-3.php [L]
+RewriteRule ^album-4\.html$   /album-photo-brest/album-4.php [L]
+RewriteRule ^album-5\.html$   /album-photo-brest/album-5.php [L]
+RewriteRule ^album-6\.html$   /album-photo-brest/album-6.php [L]
+RewriteRule ^album-7\.html$   /album-photo-brest/album-7.php [L]
+RewriteRule ^album-8\.html$   /album-photo-brest/album-8.php [L]
+RewriteRule ^album-9\.html$   /album-photo-brest/album-9.php [L]
+RewriteRule ^album-10\.html$   /album-photo-brest/album-10.php [L]
