@@ -51,7 +51,6 @@
                         L’architecte a conçu la maison de manière à offrir aux hôtes un hébergement répondant aux critères de confort du voyageur professionnel et des vacanciers exigeants.<br />
 
                         Baignées de lumière, les deux<a title="Chambre d'hôte Chêne" href="chambre_chene.html"> chambres d’hôtes «Chêne»</a> et «<a title="Chambre Palissandre" href="chambre_palissandre.html">Palissandre</a>» possèdent chacune une entrée indépendante par la terrasse ouvrant sur le  jardin.
-
                     </div>
                 </div>
                 <div class="span3">			

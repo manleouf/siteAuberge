@@ -1,0 +1,23 @@
+#--------------------------------------------------
+# Repertoire : /
+#--------------------------------------------------
+
+# Le serveur doit suivre les liens symboliques :
+Options +FollowSymlinks
+
+# Activation du module de r??criture d'URL :
+RewriteEngine on
+
+#--------------------------------------------------
+# Regles de reecriture d'URL :
+#--------------------------------------------------
+
+
+RewriteRule ^\.html$   /mobile/en/index.php [L]
+RewriteRule ^oak-room\$   /mobile/en/oak-room.php [L]
+RewriteRule ^rosewood-room\$   /mobile/en/rosewood-room.php [L]
+RewriteRule ^contact\$   /mobile/en/contact.php [L]
+RewriteRule ^rates\$   /mobile/en/rates.php [L]
+RewriteRule ^guest-house\$   /mobile/en/guest-house.php [L]
+RewriteRule ^situation\$   /mobile/en/situation.php [L]
+

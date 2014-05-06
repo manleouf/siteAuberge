@@ -1,6 +1,6 @@
 		<ul class="menu-mobile">
 
-                    <li><a href="../fr/index.php">Retour</a></li>
+                    <li><a href="../fr/">Retour</a></li>
 
 		</ul>	
 		

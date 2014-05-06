@@ -21,7 +21,7 @@
 
         <div class="page" id="tarifs">
 
-            <h1>Tarif du 1er avril 2013 au 31 mars 2015</h1>
+            <h1>Rates from 1st april 2013 to 31 march 2015</h1>
             <table class="table">
                 <thead>
                     <tr>
@@ -45,7 +45,7 @@
             </table>
 
 
-            <h2>La taxe de séjour</h2>
+            <h2>Taxe</h2>
             1,10 € per day and per adult
             <h2>Règlement </h2>
             <p>Les chèques-vacances sont acceptés.</p>

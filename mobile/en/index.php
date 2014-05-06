@@ -28,9 +28,9 @@
 
 	<ul class="menu-mobile">
 
-		<li><a href="index.php">Home</a></li>
+		<li><a href="../en/">Home</a></li>
 
-		<li><a href="contact.php">Contact</a></li>
+		<li><a href="contact">Contact</a></li>
                 <li class="flagImg pull-right"><a href="../../mobile/fr/"><img src="../../img-29/flg-fr.png" alt="Français VS" /></a></li>
 
 	</ul>
@@ -43,15 +43,15 @@
 
 	<ul class="main-menu-mobile">
 
-		<li><a href="maison.php"><img class="la-maison-dhote" src="../img/maison-hote.jpg" alt="La maison d'hote" /><span class="icon-chevron-right"></span> THE HOUSE</a></li>
+		<li><a href="guest-house"><img class="la-maison-dhote" src="../img/maison-hote.jpg" alt="La maison d'hote" /><span class="icon-chevron-right"></span> THE HOUSE</a></li>
 
-		<li><a href="chambrechene.php"><img class="la-maison-dhote" src="../img/chambre-chene.jpg" alt="La Chambre Chêne" /><span class="icon-chevron-right"></span> Room « Chene » (« Oak » room)</a></li>
+		<li><a href="oak-room"><img class="la-maison-dhote" src="../img/chambre-chene.jpg" alt="La Chambre Chêne" /><span class="icon-chevron-right"></span> « Oak » room</a></li>
 
-		<li><a href="chambrepalissandre.php"><img class="la-maison-dhote" src="../img/chambre-palissandre.jpg" alt="La Chambre Pallissandre" /><span class="icon-chevron-right"></span> Room « Palissandre » (« Rosewood » room)</a></li>
+		<li><a href="rosewood-room"><img class="la-maison-dhote" src="../img/chambre-palissandre.jpg" alt="La Chambre Pallissandre" /><span class="icon-chevron-right"></span> « Rosewood » room</a></li>
 
-		<li><a href="tarifs.php"><img class="la-maison-dhote" src="../img/jardin.jpg" alt="Les tarifs" /><span class="icon-chevron-right"></span> Rates</a></li>
+		<li><a href="rates"><img class="la-maison-dhote" src="../img/jardin.jpg" alt="Les tarifs" /><span class="icon-chevron-right"></span> Rates</a></li>
 
-                <li><a href="situation.php"><img class="la-maison-dhote" src="../img/port-brest.jpg" alt="La maison d'hote" /><span class="icon-chevron-right"></span> Position</a></li>
+                <li><a href="situation"><img class="la-maison-dhote" src="../img/port-brest.jpg" alt="La maison d'hote" /><span class="icon-chevron-right"></span> Position</a></li>
 
 	</ul>
 

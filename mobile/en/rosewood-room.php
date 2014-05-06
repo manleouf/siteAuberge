@@ -8,9 +8,8 @@
 
         <meta name="description" content="Location de chambres d'hote à Brest (Finistère) à deux pas du port" />
 
-        <meta name="keywords" content="chambre d'hote, chambre à louer Brest, hébergement Brest, Chambre pour étudiant Brest, Location chambre Brest, Chambre d'hote finistère, Chambre à louer près du port de brest" />
-
         <meta name="viewport" content="user-scalable=no, initial-scale = 1, minimum-scale = 1, maximum-scale = 1, width=device-width">
+
 
             <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
@@ -20,37 +19,41 @@
 
     <body class="mobile">
 
-        <div class="page" id="chambre-chene">
+        <div class="page" id="chambre-palissandre">
+
             <?php include_once("inc/menu-mobile.php") ?>
 
-            <h1>Room « Chene » (« Oak » room)</h1>
+            <h1>Room « Palissandre » (« Rosewood » room)</h1>
 
-            <img class="img-polaroid" alt="La chambre d'hote Chêne" src="../../img-29/chambre_ch_lit1.jpg">
+            <img class="img-polaroid" alt="Chambre d'hote Pallissandre" src="../../img-29/chambre_p_fenetre.jpg">
 
                 <p>
 
-                    Parking. Private entrance. 18 m2<br />
+                    Parking. Private entrance . 15 m2, oak floor <br />
 
-                    oak floor <br />
+                    Bed : 140x200,<br />
 
-                    Bed : 160x200 Queen Size <br />
-
-                    armchair, desk, chair, large wardrobe.<br />
+                    desk, chairs, wardrobe.<br />
 
                     TV, WIFI<br />
 
                     Kettle (free coffea and tea)<br />
 
-                    bathroom  with hair dryer,  soap and shampoo provided<br />
+                    En-suite bathroom<br />
 
-                    Large French windows with wooden terrace (garden table and chair)<br /> 
+                    with hair dryer,  soap and shampoo provided.<br />
+
+                    Large French windows with wooden terrace (garden table and chair)<br />
                 </p>
 
         </div>
 
-        <?php include_once("./inc/footer.php") ?>
+        <?php include_once("inc/footer.php") ?>
+
+
 
         <div style="clear:both;"></div>
+
     </body>
 
 </html>
