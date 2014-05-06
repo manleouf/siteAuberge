@@ -30,7 +30,7 @@
                         <p><a href="http://voyage.vietnamveo.com/" target="_blank">Séjour Vietnam</a>
 
                         </p>
-                        <p><a href="http://www.voyage.indiaveo.com/" target="_blank">Inde Voyage</a>   </p>
+                        <p><a href="http://www.voyage.indiaveo.com/" target="_blank">Inde Voyage</a></p>
                 </div>
                 <?php include_once("inc/plus.php") ?>
             </div>
