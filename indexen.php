@@ -154,12 +154,7 @@
                         <h2>Check In / Check Out</h2>
                         <p>Le jour de votre arrivée, nous vous accueillons de préférence à partir de 17h30</p>
                         <p>Le jour du départ, nous vous remercions de libérer la chambre avant 11H.</p>
-                        <h2>Pour votre confort et celui de l'environnement</h2>
-                        <p>Le ménage de votre chambre est effectué avec des produits d'entretien écologiques, sans allergènes bénéficiant d'écolabels officiels.<br />
-                            <br />
-                            <br />
-                            Les toilettes de la maison fonctionnent à l'eau de pluie, nous avons une réserve d'eau de pluie de 4000 litres, cuve enterrée dans le jardin.<br />
-                        </p>
+                        
                     </div>
 
 
